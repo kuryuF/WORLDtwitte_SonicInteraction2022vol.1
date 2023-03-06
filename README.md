@@ -4,4 +4,5 @@ Youtube link : https://www.youtube.com/watch?v=IJ3zPLX2itw&ab_channel=%E5%9B%BD%
 
 What about SonicInteraction? : https://www.youtube.com/@SonologyDept
 
-This work is a sound visualization of tweets randomly retrieved from tiwitter and converted to hexadecimal numbers as noise.main.maxpat can be run by opening it in Max8.
+This work is a sound visualization of tweets randomly retrieved from tiwitter and converted to hexadecimal numbers as noise.main.maxpat can be run by opening it in Max8.<br>
+<img width="1029" alt="スクリーンショット 2023-03-06 18 20 02" src="https://user-images.githubusercontent.com/89235127/223068405-380aaed1-c97d-4323-bdd4-dff57787d1f4.png">
